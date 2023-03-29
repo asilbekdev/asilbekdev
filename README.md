@@ -18,7 +18,7 @@
   <br>
   🎓 I graduated from Tashkent University of Information Technologies named after Muhammad al-Khwarezmi.
   <br>
-  💻 I love writing code and learn anythings about it.
+  💻 I love writing code and learning anythings about it.
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Laravel.
   <br>
